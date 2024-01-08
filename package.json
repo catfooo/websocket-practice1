@@ -21,7 +21,8 @@
     "express-async-handler": "^1.2.0",
     "express-list-endpoints": "^6.0.0",
     "mongodb": "^6.3.0",
-    "mongoose": "^8.0.3"
+    "mongoose": "^8.0.3",
+    "ws": "^8.16.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
